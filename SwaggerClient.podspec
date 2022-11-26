@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name = 'SwaggerClient'
   s.summary = 'Swift SDK for interacting with Gambit API'
-  s.homepage = 'https://github.com/MitchLang009/XRPKit'
+  s.homepage = 'https://github.com/dangell7/swagger-client-swift'
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.11'
   s.tvos.deployment_target = '9.0'
